@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+div { display: inline-block; margin: 10px;}
+
+button {
+  /* display: block; */
+  font-size: 18px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.controllers {
+  display: block;
+  margin-top: 10px;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
